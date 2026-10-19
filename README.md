@@ -54,7 +54,7 @@ Ask questions in plain English. Click any example chip or type your own:
 
 [Stats box showing a player card with their dunk]
 
-<img width="688" height="899" alt="stats-player" src="https://github.com/user-attachments/assets/91a1ce58-826e-46b8-93fb-374e54082619" />)
+<img width="688" height="899" alt="stats-player" src="https://github.com/user-attachments/assets/91a1ce58-826e-46b8-93fb-374e54082619" />
 
 > Stats are 2024-25 regular-season averages for 20 players, stored locally in
 > `stats.js`. They're approximate and may not be current.
