@@ -12,7 +12,8 @@ Built for **TCSS 490 (UW Tacoma, Autumn 2026), Artifact 2: Something You Will Us
 ## Features
 
 ### 1. Dunk Meter
-![Dunk Meter game](<img width="688" height="667" alt="game" src="https://github.com/user-attachments/assets/0ee809a4-43bb-4ef7-ba5e-fb4b612c4471" />)
+![Dunk Meter game](<img width="688" height="667" alt="game" src="https://github.com/user-attachments/assets/368131d0-9d16-4642-838a-db14a539a59b" />
+)
 
 - A white bar slides back and forth. Press **Space** or tap **SHOOT** to stop it.
 - Land in the **green zone** for a dunk. Miss and it's an airball.
