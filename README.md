@@ -12,7 +12,7 @@ Built for **TCSS 490 (UW Tacoma, Autumn 2026), Artifact 2: Something You Will Us
 ## Features
 
 ### 1. Dunk Meter
-![Dunk Meter game](screenshots/game.png)
+![Dunk Meter game](<img width="688" height="667" alt="game" src="https://github.com/user-attachments/assets/0ee809a4-43bb-4ef7-ba5e-fb4b612c4471" />)
 
 - A white bar slides back and forth. Press **Space** or tap **SHOOT** to stop it.
 - Land in the **green zone** for a dunk. Miss and it's an airball.
@@ -24,7 +24,7 @@ Built for **TCSS 490 (UW Tacoma, Autumn 2026), Artifact 2: Something You Will Us
 - Every dunk plays the next highlight clip right under the button.
 
 ### 2. Dunk reel
-![Dunk reel](screenshots/highlights.png)
+![Dunk reel](<img width="688" height="490" alt="highlights" src="https://github.com/user-attachments/assets/5a692c0a-0ecc-49b3-8167-fcf55f0aa9b8" />]())
 
 Dunks from LeBron James, Kevin Durant, Anthony Edwards, Giannis Antetokounmpo,
 Michael Jordan, and Kobe Bryant. Every dunk you hit in the game plays the next one.
@@ -33,7 +33,8 @@ The clips started as GIFs. I converted them to looping, muted MP4s so the page
 loads fast, and each one has a still frame so it never shows an empty box.
 
 ### 3. Stats box
-![Stats box answering top 5 scorers](screenshots/stats.png)
+![Stats box answering top 5 scorers](<img width="688" height="899" alt="stats-player" src="https://github.com/user-attachments/assets/91a1ce58-826e-46b8-93fb-374e54082619" /><img width="688" height="513" alt="stats" src="https://github.com/user-attachments/assets/7fd4d16b-25c2-4d84-9424-80d401133a4a" />
+)
 
 Ask questions in plain English. Click any example chip or type your own:
 
