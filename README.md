@@ -37,11 +37,11 @@ The clips started as GIFs. I converted them to looping, muted MP4s so the page
 loads fast, and each one has a still frame so it never shows an empty box.
 
 ### 3. Stats box
-(<img width="688" height="899" alt="stats-player" src="https://github.com/user-attachments/assets/91a1ce58-826e-46b8-93fb-374e54082619" />
+<img width="688" height="899" alt="stats-player" src="https://github.com/user-attachments/assets/91a1ce58-826e-46b8-93fb-374e54082619" />
 
 
 <img width="688" height="513" alt="stats" src="https://github.com/user-attachments/assets/7fd4d16b-25c2-4d84-9424-80d401133a4a" />
-)
+
 
 Ask questions in plain English. Click any example chip or type your own:
 
