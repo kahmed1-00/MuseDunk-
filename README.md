@@ -1,3 +1,4 @@
+<img width="688" height="667" alt="game" src="https://github.com/user-attachments/assets/6bcc2e05-e179-40a1-bcf4-7f239861de40" />
 # 🏀 MuseDunk Arcade
 
 A small NBA arcade site I built for myself: a timing game where every dunk plays a
