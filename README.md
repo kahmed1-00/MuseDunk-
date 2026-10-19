@@ -1,4 +1,4 @@
-<img width="688" height="667" alt="game" src="https://github.com/user-attachments/assets/6bcc2e05-e179-40a1-bcf4-7f239861de40" />
+
 # 🏀 MuseDunk Arcade
 
 A small NBA arcade site I built for myself: a timing game where every dunk plays a
@@ -13,8 +13,10 @@ Built for **TCSS 490 (UW Tacoma, Autumn 2026), Artifact 2: Something You Will Us
 ## Features
 
 ### 1. Dunk Meter
-![Dunk Meter game](<img width="688" height="667" alt="game" src="https://github.com/user-attachments/assets/368131d0-9d16-4642-838a-db14a539a59b" />
-)
+[Dunk Meter game] 
+
+<img width="688" height="667" alt="game" src="https://github.com/user-attachments/assets/6bcc2e05-e179-40a1-bcf4-7f239861de40" />
+
 
 - A white bar slides back and forth. Press **Space** or tap **SHOOT** to stop it.
 - Land in the **green zone** for a dunk. Miss and it's an airball.
